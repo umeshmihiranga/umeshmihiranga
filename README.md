@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,java,python,c,docker,git,github,bash,spring,postgres,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,java,python,c,docker,git,github,bash,spring,postgres,mysql,vscode" />
 </p>
 
 ---
@@ -39,22 +39,35 @@
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/umesh-mihiranga-854543387/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/umesh-mihiranga-854543387/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
-
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=umeshmihiranga&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=umeshmihiranga&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 👾 Pac-Man Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/umeshmihiranga/umeshmihiranga/output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contribution Graph"
+  />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=umeshmihiranga&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img
+    src="https://komarev.com/ghpvc/?username=umeshmihiranga&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
